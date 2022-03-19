@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1 sectiontitle">NeedIt List Help</h1>
+<p>Use this list for access the full list of NeedIt requests. </p>
+<h2 class="title sectiontitle">Sorting NeedIt Records</h2>
+<ul class="steps-unordered"><li class="li step"><em>Sort by Request Type when search for department related records</em></li><li class="li step"><em>Sort by When Needed to quickly see which requests are due </em></li></ul>
+<h2 class="title sectiontitle">Additional Help</h2>
+<p>My NeedIt Requests are custom filtered to only display records for you</p>
+<div class="note tm-element"><span class="notetitle">Note: NeedIt List help created by Ken Browne</span></div>
+<p>For additional information please see the video on <a title="personalizing the NeedIt List" href="https://youtu.be/DbRocGg6kbw" target="_blank" rel="noopener">personalizing the NeedIt List</a>. </p>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>NeedIt List - Admin</name>
+        <page>x_58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.admin" name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</role>
+        <role_order>10</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-19 20:36:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2f31811a2f520110250150492799b6cd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NeedIt List - Admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_2f31811a2f520110250150492799b6cd</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2022-03-19 20:55:46</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=2f31811a2f520110250150492799b6cd"/>
+</record_update>
